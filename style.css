@@ -1,0 +1,30 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Domine", serif;
+  box-sizing: border-box;
+}
+
+#home-bage {
+  background-image: url(photos/1.png);
+  background-position: center;
+  background-size: cover;
+}
+
+#layer {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.692);
+}
+
+#text {
+  padding-top: 100px;
+}
+
+#btn1 {
+  border: none;
+}
+
+#btn1:hover {
+  background-color: rgb(38, 38, 38);
+  color: rgb(255, 255, 255);
+}
